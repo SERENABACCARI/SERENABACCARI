@@ -17,7 +17,7 @@
 - 💞️ Sono interessata a collaborare su progetti open source legati allo sviluppo web e all'innovazione tecnologica.
 
 
- 🚀 Sito Web Presentato per l'Esame con la Scuola di Epico per Full Stack Developer(https://body-building-federation-natural.netlify.app/)
+ 🚀 Sito Web Presentato per l'Esame con la Scuola di Epicod per Full Stack Developer(https://body-building-federation-natural.netlify.app/)
 
 
 
