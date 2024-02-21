@@ -20,6 +20,4 @@
  🚀 Sito Web Presentato per l'Esame con la Scuola di Epico per Full Stack Developer(https://body-building-federation-natural.netlify.app/)
 
 
-SERENABACCARI/SERENABACCARI è un repository ✨ speciale ✨ perché il suo `README.md` (questo file) appare sul tuo profilo GitHub.
-Puoi fare clic sul link Anteprima per dare un'occhiata alle tue modifiche.
---->
+
